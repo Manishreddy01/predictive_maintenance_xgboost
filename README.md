@@ -30,10 +30,3 @@ AI: Generative AI for suggestion generation
 
 Tools: Jupyter Notebook, GitHub
 
-Results
-
-92% prediction accuracy in detecting machine failures.
-
-25% reduction in unplanned downtime.
-
-Delivered real-time monitoring dashboards to empower maintenance teams with data-driven insights.
